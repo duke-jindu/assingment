@@ -1,0 +1,7 @@
+ start
+    step 1. identify the array and elements [5,4,3,2,1]
+    step 2. compair the element
+    step 3. if the current element of the array is greater than the next element
+    step 4. swap elements
+    step 5.repeat steps 1-4
+stop

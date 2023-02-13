@@ -1,0 +1,11 @@
+start
+   Step 1. Take integer var = A, B, C
+   step 2.var n = 5
+   Step 3. Set A = 0, B = 1
+   Step 4. print A, B
+   Step 5. C = A + B
+   Step 6. print C
+   Step 7. Set A = B, B = C
+   Step 8. REPEAT from 4 - 6, for n times
+   step 9. if
+STOP
